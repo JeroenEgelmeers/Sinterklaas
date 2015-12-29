@@ -1,0 +1,6 @@
+C:\Users\jeroe\Documents\Sinterklaas\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\jeroe\Documents\Sinterklaas\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\jeroe\Documents\Sinterklaas\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\jeroe\Documents\Sinterklaas\ConsoleApplication3\obj\Debug\SinterklaasLootjesCalculator.csprojResolveAssemblyReference.cache
+C:\Users\jeroe\Documents\Sinterklaas\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\jeroe\Documents\Sinterklaas\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
